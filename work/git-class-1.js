@@ -4,6 +4,7 @@
  */
 
 // Tadesse - create a variable with a number between 0 - 100
+var tadesse = 10;
 
 // Uma - create a function that takes in variable from Tadesse, and return num + 1
 
