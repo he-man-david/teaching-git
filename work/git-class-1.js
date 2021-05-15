@@ -7,8 +7,8 @@
  var tadesse = 10;
 
  // Uma - create a function that takes in variable from Tadesse, and return num + 1
-   function addfunc(num){
-       return num + 1;
+   function addfunc(tadesse){
+       return tadesse + 1;
    }
      addfunc();
  // Tsion - create a variable with the value as Tsion's favorite food
