@@ -3,12 +3,15 @@
  * 
  */
 
- // Tadesse - create a variable with a number between 0 - 100
+// Tadesse - create a variable with a number between 0 - 100
 
- // Uma - create a function that takes in variable from Tadesse, and return num + 1
+// Uma - create a function that takes in variable from Tadesse, and return num + 1
 
- // Tsion - create a variable with the value as Tsion's favorite food
+// Tsion - create a variable with the value as Tsion's favorite food
 
- // Kelvin - create a function that takes in Tsion's fav food, and return "I love " + tsion's fav food
+// Kelvin - create a function that takes in Tsion's fav food, and return "I love " + tsion's fav food
+function favFood(food) {
+    return `I love ${food}`;
+}
 
- // Beth - Create a variable array, with everyone's name in it.
+// Beth - Create a variable array, with everyone's name in it.
