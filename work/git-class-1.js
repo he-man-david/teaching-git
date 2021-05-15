@@ -4,6 +4,7 @@
  */
 
  // Tadesse - create a variable with a number between 0 - 100
+ Tadesse = 10 , 42 , 67 ,87;
 
  // Uma - create a function that takes in variable from Tadesse, and return num + 1
    function addfunc(num){
